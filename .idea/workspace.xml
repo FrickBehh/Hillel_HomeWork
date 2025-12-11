@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa6ac647-9c75-4e48-b142-d85790ff8717" name="Changes" comment="Add second homework_2_1">
-      <change afterPath="$PROJECT_DIR$/third_homework.py" afterDir="false" />
+    <list default="true" id="aa6ac647-9c75-4e48-b142-d85790ff8717" name="Changes" comment="Add second homework_3_1">
+      <change afterPath="$PROJECT_DIR$/third_2_homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework_2_1" />
+        <entry key="$PROJECT_DIR$" value="homework_3_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FrickBehh&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -25,6 +42,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="homework_3_2" />
+                    <option name="lastUsedInstant" value="1765478726" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="homework_3_1" />
                     <option name="lastUsedInstant" value="1765402976" />
@@ -46,15 +67,15 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FrickBehh/Hillel_HomeWork.git",
-    "accountId": "01feabea-a7ad-4eb4-908c-e6183c1f37b1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FrickBehh/Hillel_HomeWork.git&quot;,
+    &quot;accountId&quot;: &quot;01feabea-a7ad-4eb4-908c-e6183c1f37b1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="36ffabdt6MeNOPqy3VV03plnJcm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -63,12 +84,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.third_2_homework.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "homework__3__1"
+    "git-widget-placeholder": "homework__3__2",
+    "last_opened_file_path": "D:/Hillel_HomeWork"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Hillel_HomeWork" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765402903651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add second homework_3_1">
+      <option name="closed" value="true" />
+      <created>1765403030626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765403030626</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Project" />
     <MESSAGE value="Add second homework_2_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add second homework_2_1" />
+    <MESSAGE value="Add second homework_3_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add second homework_3_1" />
   </component>
 </project>
